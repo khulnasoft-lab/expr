@@ -37,7 +37,7 @@ github.com/google/uuid
 github.com/karlseguin/ccache/v2
 # github.com/kr/text v0.2.0
 ## explicit
-# github.com/ohler55/ojg v1.21.0
+# github.com/ohler55/ojg v1.26.1
 ## explicit; go 1.21
 github.com/ohler55/ojg
 github.com/ohler55/ojg/alt
