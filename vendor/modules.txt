@@ -35,6 +35,8 @@ github.com/google/uuid
 # github.com/karlseguin/ccache/v2 v2.0.8
 ## explicit; go 1.13
 github.com/karlseguin/ccache/v2
+# github.com/karlseguin/ccache/v3 v3.0.6
+## explicit; go 1.19
 # github.com/kr/text v0.2.0
 ## explicit
 # github.com/ohler55/ojg v1.21.0
